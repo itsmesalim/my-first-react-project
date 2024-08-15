@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+/* styling for User login screen */
+.signup-form {
+  display: grid;
+  border: 1px solid #282c34;
+  border-radius: 2px;
+  width: 35%;
+  padding: 0px 0px 20px 0px;
+  margin: 15%;
+}
+
+.nav-bar {
+  background-color: #618afb;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+  color: #e7e5e5;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin: 0px 20px 20px 20px;
+}
+
+label {
+  margin: 0px 20px;
+}
+
+button {
+  background-color: #618afb;
+  margin: 0px 20px;
+  padding: 10px;
+  color: #e7e5e5;
+}
